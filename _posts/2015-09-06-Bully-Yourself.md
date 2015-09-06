@@ -38,8 +38,4 @@ It's easy to fear that the time and effort put into a new project/startup/self-d
 
 It's very tempting to let the adversities in your personal life affect your work. Bully yourself, and stop feeling sorry for yourself.
 
-Far too many people admit that they are not entirely satisfied with their life, but feel the lack the skills to improve it. But we live in an era where anyone with an internet connection that learn almost any skill (including how to code, and how to build a company) for free on Coursera, Udacity, edX, MITx or HarvardX. And we also live in an era where it is ridiculously cheap and fast to build out digital prototypes that you can get feedback on.
-
-There are too many people I have met lately who are insanely smart and talented, but still lead lives that they are unhappy with, because they refuse to bully themselves. That is a travesty.
-
-Good things do not comes to those who wait patiently. Good things come to those who shake the world until it gives them what they want.
+Good things do not come to those who wait patiently. Good things come to those who shake the world until it gives them what they want.
