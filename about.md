@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a co-founder at Head of Product + Data Science at [Deepo](http://deepo.io), an awesome data-science startup that democratizes the power of smart, predictive algorithms for marketers and editors. We are always looking for great people to work with, so please do reach out if you are interested in knowing more about what we do.
+I run product and data science at [Deepo](http://deepo.io), an awesome data-science startup that democratizes the power of smart, predictive algorithms for marketers and editors. We are always looking for great people to work with, so please do reach out if you are interested in knowing more about what we do.
 
 ### Other Interests
 
