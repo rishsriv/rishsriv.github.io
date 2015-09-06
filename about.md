@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a co-founder at Head of Product + Data Science at [Deepo](http://deepo.io), an awesome data-science startup that democratizes the power of smart, predictive algorithms for marketers and editors.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am very interested in Data Journalism, Sports Analytics, and Social Innovation. If you play around in any of these files, please hit me up! Coffee will be on me :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rishabhsriv@gmail.com](mailto:rishabhsriv@gmail.com)
