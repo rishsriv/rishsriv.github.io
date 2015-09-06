@@ -26,14 +26,16 @@ Here are some of the things I did instead:
 
 I'm sure that some very significant failures are yet to come, but the past two years have made me realize that this is a good thing. Failing sporadically is a sign that you are reaching for things that are not easily reachable. Failure also acts as as a sharp wake-up call, and tells you that you will lose badly if you don't up your game.
 
-It is easier said that done though. Failure is extremely taxing. It makes you question your worth as a person. It makes you hate well-meaning people who innocuously ask "Where do you work?", or "How is your company doing?". It makes you less receptive to folks who want to help, mistaking their efforts for pity.
+It is easier said than done though. Failure is extremely taxing. It makes you question your worth as a person. It makes you hate well-meaning people who innocuously ask "Where do you work?", or "How is your company doing?". It makes you less receptive to folks who want to help, mistaking their efforts for pity.
 
 If you let it, a single large failure can irrevocably limit your career and personal growth. It is easy to develop a defense mechanism than tells you to stop trying anything in which you might fall flat on your face. Why do something that might hurt you terribly, when you can stick to the status quo and coast along?
 
 And that is why you must bully yourself.
 
 It's comforting to blame circumstances and other people for your failure. Don't. Bully yourself to improve instead.
+
 It's easy to fear that the time and effort put into a new project/startup/self-development-activity might end up in nothing. Bully yourself and do it anyway.
+
 It's very tempting to let the adversities in your personal life affect your work. Bully yourself, and stop feeling sorry for yourself.
 
 Far too many people admit that they are not entirely satisfied with their life, but feel the lack the skills to improve it. But we live in an era where anyone with an internet connection that learn almost any skill (including how to code, and how to build a company) for free on Coursera, Udacity, edX, MITx or HarvardX. And we also live in an era where it is ridiculously cheap and fast to build out digital prototypes that you can get feedback on.
