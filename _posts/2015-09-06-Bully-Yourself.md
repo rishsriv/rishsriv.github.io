@@ -6,6 +6,7 @@ title: Bully Yourself
 It has been two years since I wrote a personal blog. A lot has happened since then. I taught myself web-development and data-science, tried and failed to get an [ed-tech startup](http://quiztra.com) off the ground, spent a year in India doing [data-journalism](http://blog.thenumerateindian.com) and data-science consulting, and co-founded a [data science startup](http://deepo.io) that currently serves some of the biggest media companies around the world.
 
 It has been a crazy ride. I have been hit, repeatedly, by failure over the past two years. Some of the major ones have been:
+
 - Getting 25+ rejections while hunting for a job as an NUS undergraduate
 - Failing to make my ed-tech startup profitable after working on it for 7 months (and subsequently closing it down)
 - Failing to get clients to pay for some consulting projects completed in India (tip: always sign a formal contract before you start working with clients)
@@ -16,6 +17,7 @@ I was close to breaking down after some of these. It was very tempting to join a
 I'm glad I didn't.
 
 Here are some of the things I did instead:
+
 - Spent 14 hours a day over a 3 month period teaching myself data-science, through free online courses
 - Published data-driven analysis of social issues and sports, which received more than 2.5 million views, and was covered by major publications in India, United States and England
 - Competed on Kaggle, and ending up in the top 2% of data-scientists worldwide
