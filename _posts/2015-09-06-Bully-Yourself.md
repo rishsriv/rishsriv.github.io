@@ -3,8 +3,6 @@ layout: post
 title: Bully Yourself
 ---
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 _"I bully myself, 'cause I make me do what I put my mind to."_ - Eminem
 
 It has been two years since I posted on this blog. A lot has happened since then. I taught myself web-development and data-science, tried and failed to get an [ed-tech startup](http://quiztra.com) off the ground, spent a year in India doing [data-journalism](http://blog.thenumerateindian.com) and data-science consulting, and co-founded a [data science startup](http://deepo.io) that currently serves some of the biggest media companies around the world.
