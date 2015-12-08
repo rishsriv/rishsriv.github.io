@@ -3,7 +3,7 @@ layout: post
 title: Bully Yourself
 ---
 
-It has been two years since I wrote a personal blog. A lot has happened since then. I taught myself web-development and data-science, tried and failed to get an [ed-tech startup](http://quiztra.com) off the ground, spent a year in India doing [data-journalism](http://blog.thenumerateindian.com) and data-science consulting, and co-founded a [data science startup](http://deepo.io) that currently serves some of the biggest media companies around the world.
+It has been two years since I wrote a personal blog. A lot has happened since then. I taught myself web-development and data-science, tried and failed to get an [ed-tech startup](http://quiztra.com) off the ground, spent a year in India doing [data-journalism](http://blog.thenumerateindian.com) and data-science consulting, and headed product for a [data science startup](http://deepo.io) that currently serves some of the biggest media companies around the world.
 
 It has been a crazy ride. I have been hit, repeatedly, by failure over the past two years. Some of the major ones have been:
 
