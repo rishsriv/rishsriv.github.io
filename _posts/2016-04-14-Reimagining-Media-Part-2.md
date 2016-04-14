@@ -11,21 +11,21 @@ Imagine that you are a shopowner, and you have a customer who always buys apples
 
 This analogy is not all that inaccurate for general news publishers that are beginning to lose users to niche sites. Thankfully, Data Science offers a solution. I have implemented a personalized article recommendation system on my site, <a href="http://thebroadline.com" target="_blank">TheBroadline.com</a>. Users are shown articles based on where they live, where they entered the site from, and past articles (if any, that they have seen on the site). For instance, a user living in India who has visited the site for the first time would see the following:
 
-<img src="http://rishsriv.github.io/images/broadline_home_personalization_india.png" style="border-width: 1px; border-color: #000; max-width: 100%;">
+<img src="http://rishsriv.github.io/images/broadline_home_personalization_india.png" style="border: 1px solid #000000;">
 
 On the contrary, a non-Indian user would see the following:
 
-<img src="http://rishsriv.github.io/images/broadline_home_personalization_usa.png" style="border-width: 1px; border-color: #000; max-width: 100%;">
+<img src="http://rishsriv.github.io/images/broadline_home_personalization_usa.png" style="border: 1px solid #000000;">
 
 Notice how the first recommended article is the only one on my site that is not about India. This is automatically determined by algorithms that run round the clock. They look at what users similar to a given user has seen, and recommend articles that a given user might like. I have configured the algorithm to work on a country level (since I have a very limited audience and few articles right now), but you can make it work at a city or regional level as well.
 
 Moreover, if the user has been on the site before, we can hazard a guess at what kind of content she would like. You can use algorithms to then recommend content completely tailored to this user. For instance, after I visited articles about the <a href="http://thebroadline.com/caste-is-not-in-the-past-cbse-class-xii-results.html" target="_blank">role of caste in education in India</a>, and an <a href="http://thebroadline.com/we-did-the-math-communal-violence-is-indeed-rising-across.html" target="_blank">increase in communal violence in India</a>, the algorithm automatically recommended these article the next time I visited the home page:
 
-<img src="http://rishsriv.github.io/images/broadline_home_personalization_old_user.png" style="border-width: 1px; border-color: #000; max-width: 100%;">
+<img src="http://rishsriv.github.io/images/broadline_home_personalization_old_user.png" style="border: 1px solid #000000;">
 
 These recommendations can also be used to point a user out to new articles once he is done reading the current one. This helps significantly with both engagement and retention. For instance, this is what a user sees after viewing an article about the Indian Budget.
 
-<img src="http://rishsriv.github.io/images/broadline_personalization_reco.png" style="border-width: 1px; border-color: #000; max-width: 100%;">
+<img src="http://rishsriv.github.io/images/broadline_personalization_reco.png" style="border: 1px solid #000000;">
 
 I have found that these recommendations have helped increase my site's pageviews per session by 16%. My site has very little traffic, so it this lift doesn't really make a big difference. But it can make a huge different for larger sites. If you are wondering how exactly I measured the increase due to these recommendations, read on!
 
