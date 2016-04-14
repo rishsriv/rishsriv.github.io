@@ -10,12 +10,12 @@ This post is the second in a two part series that talks about how traditional ne
 Imagine that you are a shopowner, and you have a customer who always buys apples from you. But apples are stocked all the way at the back of your shop. The customer tries to be loyal for a while, but eventually decides to go to another shop where apples are stocked right at the front.
 
 This analogy is not all that inaccurate for general news publishers that are beginning to lose users to niche sites. Thankfully, Data Science offers a solution. I have implemented a personalized article recommendation system on my site, [TheBroadline.com](http://thebroadline.com). Users are shown articles based on where they live, where they entered the site from, and past articles (if any, that they have seen on the site). For instance, a user living in India who has visited the site for the first time would see the following:
-[[http://rishsriv.github.io/images/broadline_home_personalization_india.png]]
+![New Indian User](http://rishsriv.github.io/images/broadline_home_personalization_india.png)
 
 On the contrary, a non-Indian user would see the following:
-[[http://rishsriv.github.io/images/broadline_home_personalization_usa.png]]
+![New Non-Indian User](http://rishsriv.github.io/images/broadline_home_personalization_usa.png)
 
-Notice how the only article on my site that is not about India is at the top. This is determined automatically determined by algorithms that run round the clock. They look at what users similar to a given user has seen, and recommend articles that a given user might like. I have configured the algorithm to work on a country level (since I have a very limited audience and few articles right now), but you can make it work at a city or regional level as well.
+Notice how the first recommended article is the only one on my site that is not about India. This is determined automatically determined by algorithms that run round the clock. They look at what users similar to a given user has seen, and recommend articles that a given user might like. I have configured the algorithm to work on a country level (since I have a very limited audience and few articles right now), but you can make it work at a city or regional level as well.
 
 Moreover, if the user has been on the site before, we can hazard a guess at what kind of content she would like. You can use algorithms to then recommend content completely tailored to this user. For instance, after I visited articles about the [role of caste in education in India](http://thebroadline.com/caste-is-not-in-the-past-cbse-class-xii-results.html), and an [increase in communal violence in India](http://thebroadline.com/we-did-the-math-communal-violence-is-indeed-rising-across.html), the algorithm automatically recommended these article the next time I visited the home page:
-[[http://rishsriv.github.io/images/broadline_home_personalization_old_user.png]]
+![Existing User](http://rishsriv.github.io/images/broadline_home_personalization_old_user.png)
