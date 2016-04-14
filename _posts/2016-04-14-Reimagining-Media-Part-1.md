@@ -3,7 +3,7 @@ layout: post
 title: Reimagining news for the web (Part 1)
 ---
 
-I have spent the last year and a half playing with online media in various forms. I published by own content, helped large publications create content, and headed Product and Data Science for a startup that helped media companies understand their online presence better through analytics. After all this, I have come to a disturbing conclusion - most traditional media companies still do not get the web.
+I have spent the last year and a half playing with online media in various forms. I published my own content, helped large publications create content, and headed Product and Data Science for a startup that used data science to help media companies understand their content better. After all this, I have come to a disturbing conclusion - most traditional media companies do not get the web.
 
 That is a strong statement to make, so I will try to substantiate it somewhat. This is the first post in a two-part series that talks about how we can reimagine media for the web. The first part of the post will outline what most traditional media companies are doing wrong, while the second part will talk about solutions that they can use.
 
